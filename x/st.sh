@@ -71,7 +71,7 @@ echo "############### CARGO INSTALLS ###############"
 echo "############### CARGO INSTALLS ###############"
 echo "############### CARGO INSTALLS ###############"
 echo "############### CARGO INSTALLS ###############"
-cargo install exa fd-find ripgrep du-dust starship bat artem nu
+cargo install exa fd-find ripgrep du-dust starship bat artem nu image-to-ascii
 cargo install cargo-nextest --locked 
 echo ""
 echo ""
