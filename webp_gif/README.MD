@@ -5,6 +5,7 @@
 1. [Wat ?](#wat-)
 2. [Crates](#crates)
    1. [`https://lib.rs/crates/gif`](#httpslibrscratesgif)
+   2. [`https://lib.rs/crates/image`](#httpslibrscratesimage)
 
 ----
 
@@ -23,4 +24,6 @@
 GIF Encoder and Decoder will be using this 
 - This might not work perfectly since you are tryign to decode 'webp' into '.gif'
 
+## [`https://lib.rs/crates/image`](https://lib.rs/crates/image)
 
+1. Many downloads for this crate going to use this 
