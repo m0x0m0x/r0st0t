@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./px/g.webp" width="100">
+<img src="./pxs/g.webp" width="100">
 </p>
 
 ---
