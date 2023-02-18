@@ -3,6 +3,8 @@
 
 ----
 1. [Wat ?](#wat-)
+2. [Crates](#crates)
+   1. [`https://lib.rs/crates/gif`](#httpslibrscratesgif)
 
 ----
 
@@ -11,4 +13,13 @@
 1. Using rust to covnert `.webp` to `gifs`
    1. Used to do it with python
       1. Moving a level up and trying to do this in rust 
+
+# Crates 
+
+> These are teh ones whcih you will rry to use 
+
+## [`https://lib.rs/crates/gif`](https://lib.rs/crates/gif)
+
+GIF Encoder and Decoder will be using this 
+
 
