@@ -4,22 +4,14 @@
 
 ---
 
-<h1 align="center"><code>🤣::R0ST0T</code></h1>
-<h2 align="center"><i>Rostington Teztz</i></h2>
+<h1 align="center"><code>🤣::🐎</code></h1>
+<h2 align="center"><i>r1 - RostTEst</i></h2>
 
 ----
-1. [WTF ?](#wtf-)
-2. [Branches](#branches)
+1. [🤣::🐎::WTF ?](#wtf-)
 
 ----
 
-# WTF ?
+# 🤣::🐎::WTF ?
 
-1. Testing our various crates and stuff of interest for learning purposes 
-
-
-# Branches 
-
-1. Breakem into branches to reduce wankng 
-
- ---
+1.Rost tests in this one 
