@@ -21,5 +21,6 @@
 ## [`https://lib.rs/crates/gif`](https://lib.rs/crates/gif)
 
 GIF Encoder and Decoder will be using this 
+- This might not work perfectly since you are tryign to decode 'webp' into '.gif'
 
 
