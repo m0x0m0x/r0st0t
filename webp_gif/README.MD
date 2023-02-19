@@ -41,3 +41,6 @@ brew install webp
 
 ## Code 
 
+1. ['24 days of rust - Convert Image'](https://siciarz.net/24-days-of-rust-image/)
+   1. Looking at this tutorial 
+
