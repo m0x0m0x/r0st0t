@@ -7,6 +7,7 @@
    1. [`https://lib.rs/crates/gif`](#httpslibrscratesgif)
    2. [`https://lib.rs/crates/image`](#httpslibrscratesimage)
 3. [With Crate - `image`](#with-crate---image)
+   1. [Code](#code)
 
 ----
 
@@ -37,4 +38,6 @@ GIF Encoder and Decoder will be using this
 brew install webp
 ```
 - Now its ready for use 
-- 
+
+## Code 
+

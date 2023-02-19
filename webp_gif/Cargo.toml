@@ -2,8 +2,10 @@
 name = "webp_gif"
 version = "0.1.0"
 edition = "2021"
+author = "PantySniffer"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 gif = "0.12.0"
+image = "0.24.5"
