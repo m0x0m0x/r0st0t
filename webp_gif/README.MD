@@ -44,3 +44,6 @@ brew install webp
 1. ['24 days of rust - Convert Image'](https://siciarz.net/24-days-of-rust-image/)
    1. Looking at this tutorial 
 
+
+[`Sun 19 Feb 2023 03:48:46 PM UTC`]
+- Stopping work on this and will come back later 
