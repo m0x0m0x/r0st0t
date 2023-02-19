@@ -6,6 +6,7 @@
 2. [Crates](#crates)
    1. [`https://lib.rs/crates/gif`](#httpslibrscratesgif)
    2. [`https://lib.rs/crates/image`](#httpslibrscratesimage)
+3. [With Crate - `image`](#with-crate---image)
 
 ----
 
@@ -27,3 +28,13 @@ GIF Encoder and Decoder will be using this
 ## [`https://lib.rs/crates/image`](https://lib.rs/crates/image)
 
 1. Many downloads for this crate going to use this 
+
+# With Crate - [`image`](https://lib.rs/crates/image)
+
+1. Before you can use this you need to install ['webp-encoder'](https://formulae.brew.sh/formula/webp) with `brew`
+
+```sh
+brew install webp
+```
+- Now its ready for use 
+- 
